@@ -6,7 +6,7 @@ A web application for finding effective exercises with detailed instructions and
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/gym-website.git
+1. Clone the repository: git clone https://github.com/utk145/-FitFlex-Gym-Website
 2. Navigate to the project directory: cd gym-website
 3. Install dependencies: npm install --legacy-peer-deps
 - Note: Be sure to copy the dependencies from package.json as is to avoid version conflicts.
@@ -15,9 +15,9 @@ A web application for finding effective exercises with detailed instructions and
 
 - Browse through a list of effective exercises
 - View detailed instructions and videos for each exercise
-- Search for exercises by name
+- Search for exercises by name/Keyword
 - Filter exercises by muscle group
-- Save favorite exercises for future reference
+
 
 ## Technologies Used
 - React
@@ -31,8 +31,4 @@ Exercise data provided by RapidAPI's ExerciseDB API
 
 ### Deployment
 
-This website has been deployed here for preview: [Get Fit]()
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This website has been deployed here for preview : [Get Fit](https://utproj-fitflex-simple-gym-website.pages.dev/)
