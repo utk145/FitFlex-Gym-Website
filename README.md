@@ -31,4 +31,4 @@ Exercise data provided by RapidAPI's ExerciseDB API
 
 ### Deployment
 
-This website has been deployed here for preview : [Get Fit](https://utproj-fitflex-simple-gym-website.pages.dev/)
+This website has been deployed here for preview : [Get Fit](https://utproj-fitflex-simple-gym-website-2aq.pages.dev/)
