@@ -29,6 +29,4 @@ A web application for finding effective exercises with detailed instructions and
 
 Exercise data provided by RapidAPI's ExerciseDB API
 
-### Deployment
 
-This website has been deployed here for preview : [Get Fit](https://utproj-fitflex-simple-gym-website-2aq.pages.dev/)
