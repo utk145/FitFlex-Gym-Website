@@ -31,5 +31,9 @@ A web application for finding effective exercises with detailed instructions and
 ## Credits
 
 Exercise data provided by RapidAPI's ExerciseDB API
+---
+
+
+![screencapture-utproj-gym-netlify-app-exercise-1604-2023-11-05-07_53_18](https://github.com/utk145/FitFlex-Gym-Website/assets/122993091/da391b69-fbd4-497b-b10e-4c23257ed19a)
 
 
